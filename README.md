@@ -17,3 +17,8 @@ Health Categories
  Responsive Design
 
  Designed for a seamless experience on desktop and mobile devices.
+
+# Tech Stack
+ Backend: Python (Flask Framework)
+ Frontend: HTML, CSS
+ Deployment: Flask Development Server
