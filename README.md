@@ -22,3 +22,9 @@ Health Categories
  Backend: Python (Flask Framework)
  Frontend: HTML, CSS
  Deployment: Flask Development Server
+
+ # Usage
+ Input your height and weight into the form.
+ Click the "Calculate BMI" button.
+ View your BMI value and associated health insights.
+
