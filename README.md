@@ -1,6 +1,6 @@
 # Body Mass Index (BMI) Calculator
 
-A simple and interactive web application built using Python and Flask to calculate Body Mass Index (BMI) and provide health insights based on the calculated BMI value
+A simple and interactive web application built using Python and Flask to calculate Body Mass Index (BMI) and provide health insights based on the calculated BMI value.
 
 # Features
 User-Friendly Interface
